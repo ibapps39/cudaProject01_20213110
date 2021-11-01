@@ -1,0 +1,18 @@
+Libs and Middleware:
+cuDNN TensorRT
+cuFFT, cuBLASm cuRAND, cuSPARSE
+CULA MAGMA
+Thrust, NPP
+VSIPL, SVM, OpenCurrent
+PhysX, OptiX, iRay
+MATLAB, Mathematica
+
+Programming Languages:
+C
+C++
+Fortran
+Java
+Python
+Wrappers
+DirectCompute
+Directives OpenACC
